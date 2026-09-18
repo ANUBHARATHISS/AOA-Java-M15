@@ -1,6 +1,6 @@
 
 # EX 5C Graph coloring
-## DATE:
+## DATE: 12-09-2026 
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -37,6 +37,11 @@ Otherwise, print "NO".
 5.If all nodes can be safely colored, print “YES”; otherwise, print “NO.”  
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.*;
 
