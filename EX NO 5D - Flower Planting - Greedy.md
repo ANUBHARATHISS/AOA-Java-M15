@@ -1,6 +1,6 @@
 
 # EX 5D Flower Planting.
-## DATE:
+## DATE: 12-09-2026 
 ## AIM:
 To write a Java program to for given constraints.
 You are given n gardens, labelled from 1 to n.
@@ -37,6 +37,11 @@ A valid flower assignment always exists
 5.After assigning flowers to all gardens, print the final flower arrangement.   
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.*;
 
